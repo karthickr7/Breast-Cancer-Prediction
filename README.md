@@ -22,3 +22,7 @@ cancer and the cells have a harmful effect.
   ● Assess the correctness in classifying data with respect to efficiency and effectiveness of
 the SVM classifier in terms of accuracy, precision, sensitivity, specificity and AUC ROC
   ● Tuning the hyperparameters of SVM Classifier provided by the scikit-learn library
+# Learning Outcome:
+  The students will get a better understanding of how the variables are linked to each
+other and build an SVM model. Apart from various performance measures, they will also
+learn about hyperparameter tuning with cross-validation to improve these scores.
