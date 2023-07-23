@@ -15,3 +15,10 @@ metrics other than model accuracy.
 The target variable has values 'Benign' and 'Malignant', where 'Benign' means that the
 cells are not harmful or there is no cancer and 'Malignant' means that the patient has
 cancer and the cells have a harmful effect.
+# Scope:
+  ● Analysing the available data and exploring relationships among given variables
+  ● Data Pre-processing
+  ● Training SVM classifier to predict whether the patient has cancer or not
+  ● Assess the correctness in classifying data with respect to efficiency and effectiveness of
+the SVM classifier in terms of accuracy, precision, sensitivity, specificity and AUC ROC
+  ● Tuning the hyperparameters of SVM Classifier provided by the scikit-learn library
